@@ -52,9 +52,3 @@ jupyter notebook predictive_maintenance.ipynb
 - scikit-learn (Decision Tree, SVM, MLP)
 - pandas & NumPy
 - matplotlib & seaborn
-
-## Author
-
-**Yeray Fernández**  
-Digital Technology Engineering · AI & System Integration  
-[LinkedIn](https://linkedin.com/in/yerayfdzp)
