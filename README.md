@@ -55,6 +55,6 @@ jupyter notebook predictive_maintenance.ipynb
 
 ## Author
 
-**Yeray Fernández Peñín**  
+**Yeray Fernández**  
 Digital Technology Engineering · AI & System Integration  
 [LinkedIn](https://linkedin.com/in/yerayfdzp)
