@@ -30,7 +30,6 @@ Industrial equipment failures cause costly downtime and safety risks. This proje
 4. **Model Comparison** — accuracy, precision, recall, F1-score comparison
 
 ## How to Run
-
 ```bash
 # Clone the repository
 git clone https://github.com/yerayfdzp/predictive-maintenance-ml.git
@@ -46,9 +45,20 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook predictive_maintenance.ipynb
 ```
 
+## Docker
+
+Build and run the project using Docker:
+```bash
+docker build -t predictive-maintenance .
+docker run -p 8888:8888 predictive-maintenance
+```
+
+Then open http://localhost:8888 in your browser to access the notebook.
+
 ## Tech Stack
 
 - Python 3
 - scikit-learn (Decision Tree, SVM, MLP)
 - pandas & NumPy
 - matplotlib & seaborn
+- Docker
